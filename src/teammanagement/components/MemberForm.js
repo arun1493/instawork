@@ -83,6 +83,3 @@ MemberForm = connect(mapStateToProps)(MemberForm);
 
 export default MemberForm;
 
-git commit -m "first commit"
-git remote add origin https://github.com/arun1493/instawork.git
-    git push -u origin master
